@@ -25,7 +25,7 @@ Każdy worker działa tak samo:
 | [p_br.c](p_br.c) | Peterson — wersja zepsuta | 142 | **ważny** |
 | [p_ok.c](p_ok.c) | Peterson — wersja naprawiona | 143 | **ważny** |
 | [p_fair.c](p_fair.c) | Peterson naprawiony + pomiar fairness (ile dostępu dostaje każdy wątek) | 143 | średnio ważny |
-| [p_weak.c](p_weak.c) | To samo co `p_ok.c`, ale z innymi zamkami | — | mało ważny |
+| [p_weak.c](p_weak.c) | To samo co `p_ok.c`, ale z innymi zamkami (bliżej tego co jest na slajdach) | — | mało ważny |
 | [p_ttas.c](p_ttas.c) | Peterson z TTAS — w tym kontekście nic nie daje | — | mało ważny |
 
 ### TAS / TTAS
